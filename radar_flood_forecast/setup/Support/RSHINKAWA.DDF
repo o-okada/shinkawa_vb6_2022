@@ -1,0 +1,35 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="RSHINKAWA.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"RSHINKAWA.exe"
+"msvbvm60.dll"
+"OLEAUT32.DLL"
+"OLEPRO32.DLL"
+"ASYCFILT.DLL"
+"STDOLE2.TLB"
+"COMCAT.DLL"
+"Vb6jp.dll"
+"vspdf.ocx"
+"vsprint7.ocx"
+"vsdraw7.ocx"
+"Vsflex7L.ocx"
+"oip10.tlb"
+"msado26.tlb"
+"comdlg32.ocx"
+"CMDLGJP.DLL"
+"MSFLXGRD.OCX"
+"FLXGDJP.DLL"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
