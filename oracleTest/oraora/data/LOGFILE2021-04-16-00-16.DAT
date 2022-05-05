@@ -1,0 +1,5 @@
+2021/04/16 00:16:48  IN Mesh_2km_to_1km_data  (D:\SHINKAWA\oracleTest\oraora\data\気象庁メッシュから1kメッシュ対応表.dat) 読み込み
+2021/04/16 00:16:48  OUT Mesh_2km_to_1km_data
+2021/04/16 00:16:48  IN   Sub レーダーティーセン読み込み
+2021/04/16 00:16:48  Out  Sub レーダーティーセン読み込み
+2021/04/16 00:16:48  IN   Sub FRICS_CVT_DATA
