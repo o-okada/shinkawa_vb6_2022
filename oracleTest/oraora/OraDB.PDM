@@ -1,0 +1,147 @@
+[Root]
+Most Recent Package=標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1
+
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\SHINKAWA\OracleTest\OraOra\setup
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Found]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Released]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Missing Dependency Information]
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO21.TLB=
+D:\orant\BIN\OIP23.TLB=
+D:\orant\BIN\ORADC.OCX=
+C:\Program Files\Common Files\System\ado\msjro.dll=
+C:\WINNT\system32\msdart.dll=
+C:\WINNT\system32\msdart32.dll=
+C:\Program Files\Common Files\System\ado\msado26.tlb=
+D:\Program Files\Microsoft Visual Studio .NET\Common7\Controls\msbind.dll=
+C:\WINNT\system32\psapi.dll=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Out-of-Date Dependency Information]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Added]
+c:\winnt\system32\msdart.dll=
+c:\winnt\system32\msdart32.dll=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Removed]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files In Project]
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+D:\SHINKAWA\OracleTest\OraOra\OraDBT.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\VB6JP.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTJP.DLL=Yes
+D:\orant\BIN\ORADC.OCX=Yes
+D:\orant\BIN\OIP23.TLB=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\ADODCJP.DLL=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msjro.dll=Yes
+C:\WINNT\system32\msdart.dll=Yes
+C:\WINNT\system32\msdart32.dll=Yes
+C:\WINNT\system32\psapi.dll=Yes
+D:\Program Files\Microsoft Visual Studio .NET\Common7\Controls\msbind.dll=Yes
+C:\Program Files\Common Files\System\ado\msado26.tlb=Yes
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Registry Files]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Remote Servers]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Install Locations]
+D:\太田川\OracleDB\OraDB.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6JP.DLL=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO21.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\STDFTJP.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ADODCJP.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DATGDJP.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\SHINKAWA\OracleTest\OraOra\OraDBT.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6JP.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTJP.DLL=$(WinSysPath)
+D:\orant\BIN\ORADC.OCX=$(WinSysPath)
+D:\orant\BIN\OIP23.TLB=$(WinSysPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\ADODCJP.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDJP.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msjro.dll=$(WinSysPath)
+C:\WINNT\system32\msdart.dll=$(WinSysPath)
+C:\WINNT\system32\msdart32.dll=$(WinSysPath)
+C:\WINNT\system32\psapi.dll=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio .NET\Common7\Controls\msbind.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado26.tlb=$(WinSysPath)
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Shared Files]
+Applicable=Yes
+D:\太田川\OracleDB\OraDB.exe=No
+D:\SHINKAWA\OracleTest\OraOra\OraDBT.exe=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Distribution]
+Type=single
+Size=
+Title=OraDB
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Package]
+PackageFolder=D:\SHINKAWA\OracleTest\OraOra\setup
+ProjectFolder=D:\SHINKAWA\OracleTest\OraOra
+ServerSideCab=
+File1=D:\SHINKAWA\OracleTest\OraOra\setup\setup.exe
+File2=D:\SHINKAWA\OracleTest\OraOra\setup\Setup.Lst
+File3=D:\SHINKAWA\OracleTest\OraOra\setup\OraDBT.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|IconGroups]
+Group0=OraDB
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|OraDB]
+Icon1=OraDB.exe
+Title1=OraDB
+StartIn1=$(AppPath)
+Key1=Icon1

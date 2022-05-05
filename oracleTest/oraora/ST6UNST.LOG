@@ -1,0 +1,107 @@
+ %% このﾌｧｲﾙを変更したり、削除したりしないでください。 %% 
+ %% このﾌｧｲﾙには、ｱﾌﾟﾘｹｰｼｮﾝのｾｯﾄｱｯﾌﾟに関する情報が入っています。 %% 
+ %% このﾌｧｲﾙの情報は、ｱﾌﾟﾘｹｰｼｮﾝ削除ﾕｰﾃｨﾘﾃｨで関連ｺﾝﾎﾟｰﾈﾝﾄを自動的に削除するときに使用されます。 %% 
+
+
+NOTE: ﾌﾞｰﾄｽﾄﾗｯﾌﾟ ｾｸｼｮﾝの先頭
+
+CONFIG: Title: "OraDB"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\VB6STKIT.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\COMCAT.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\VB6JP.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\STDOLE2.TLB"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\ASYCFILT.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\OLEPRO32.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\OLEAUT32.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\COMCAT.DLL"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM32\STDOLE2.TLB"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\OLEPRO32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\OLEAUT32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+
+NOTE: ﾌﾞｰﾄｽﾄﾗｯﾌﾟ ｾｸｼｮﾝの末尾
+
+NOTE: ｾｯﾄｱｯﾌﾟ ﾌﾟﾛｸﾞﾗﾑ 'Setup1.exe' を起動しています....
+
+ACTION: CreateDir: "C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\OraDB"
+
+ACTION: SharedFile: "C:\Windows\System32\msdart32.dll"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: SharedFile: "C:\Windows\System32\msdart.dll"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: SharedFile: "C:\Windows\System32\ADODCJP.DLL"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: SharedFile: "C:\Windows\System32\STDFTJP.DLL"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: SharedFile: "C:\Windows\System32\MSSTDFMT.DLL"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: SharedFile: "C:\Windows\System32\MSADODC.OCX"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: SharedFile: "C:\Windows\System32\msjro.dll"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: SharedFile: "C:\Windows\System32\OIP23.TLB"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: SharedFile: "C:\Windows\System32\ORADC.OCX"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: SharedFile: "C:\Windows\System32\MSBIND.DLL"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "D:\SHINKAWA\oracleTest\oraora\OraDBT.exe"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSSTDFMT.DLL"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSADODC.OCX"
+
+*** ｴﾗｰ: ﾌｧｲﾙ 'C:\Windows\System32\msjro.dll' の登録中に LoadLibrary() が失敗しました。
+*** 次の処理中: DllSelfRegister: "C:\Windows\System32\msjro.dll"
+
+*** ｴﾗｰ: ﾌｧｲﾙ 'C:\Windows\System32\msjro.dll' の登録中にｴﾗｰが発生しました。
+*** ｴﾗｰ: (ﾕｰｻﾞｰは '無視' と応答しました。)
+*** 次の処理中: DllSelfRegister: "C:\Windows\System32\msjro.dll"
+
+ACTION: TLBRegister: "C:\Windows\System32\OIP23.TLB"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\ORADC.OCX"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSBIND.DLL"
+
+ACTION: ShellLink: "OraDB", "OraDB"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\OraDBT.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\OraDBT.exe", ""
+
