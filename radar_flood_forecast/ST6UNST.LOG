@@ -1,0 +1,120 @@
+ %% このﾌｧｲﾙを変更したり、削除したりしないでください。 %% 
+ %% このﾌｧｲﾙには、ｱﾌﾟﾘｹｰｼｮﾝのｾｯﾄｱｯﾌﾟに関する情報が入っています。 %% 
+ %% このﾌｧｲﾙの情報は、ｱﾌﾟﾘｹｰｼｮﾝ削除ﾕｰﾃｨﾘﾃｨで関連ｺﾝﾎﾟｰﾈﾝﾄを自動的に削除するときに使用されます。 %% 
+
+
+NOTE: ﾌﾞｰﾄｽﾄﾗｯﾌﾟ ｾｸｼｮﾝの先頭
+
+*** ｴﾗｰ: ﾃﾞｨﾚｸﾄﾘ名 'C:' が作成できませんでした。
+*** 次の処理中: CreateDir: "C:"
+
+CONFIG: Title: "SHINKAWA"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\COMCAT.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\VB6STKIT.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\VB6JP.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\STDOLE2.TLB"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\ASYCFILT.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\OLEPRO32.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\OLEAUT32.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\COMCAT.DLL"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM32\STDOLE2.TLB"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\OLEPRO32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\OLEAUT32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+
+NOTE: ﾌﾞｰﾄｽﾄﾗｯﾌﾟ ｾｸｼｮﾝの末尾
+
+NOTE: ｾｯﾄｱｯﾌﾟ ﾌﾟﾛｸﾞﾗﾑ 'Setup1.exe' を起動しています....
+
+ACTION: SharedFile: "C:\Windows\System32\STDFTJP.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\MSSTDFMT.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\MSADODC.OCX"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\Vsflex7L.ocx"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\FLXGDJP.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\MSFLXGRD.OCX"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\CMDLGJP.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\COMDLG32.OCX"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\OIP23.TLB"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\thvbhook.dll"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\vsdraw7.ocx"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\vsprint7.ocx"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\vspdf.ocx"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: PrivateFile: "D:\SHINKAWA\レーダー洪水予測\RSHINKAWA.exe"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSSTDFMT.DLL"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSADODC.OCX"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\Vsflex7L.ocx"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSFLXGRD.OCX"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\COMDLG32.OCX"
+
+ACTION: TLBRegister: "C:\Windows\System32\OIP23.TLB"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\thvbhook.dll"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\vsdraw7.ocx"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\vsprint7.ocx"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\vspdf.ocx"
+
+ACTION: ShellLink: "SHINKAWA", "SHINKAWA"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\RSHINKAWA.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\RSHINKAWA.exe", ""
+

@@ -1,0 +1,4452 @@
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 22-2月 -2016 23:44:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 22-2月 -2016 23:44:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 22-2月 -2016 23:44:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 00:02:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 00:02:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 00:02:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 00:35:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 00:35:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 00:35:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 00:53:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 00:53:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 00:53:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 01:11:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 01:11:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 01:11:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 01:38:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 01:38:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 01:38:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 01:58:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 01:58:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 01:58:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 02:21:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 02:21:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 02:21:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 02:40:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 02:40:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 02:40:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 03:07:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 03:07:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 03:07:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 03:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 03:25:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 03:25:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 03:43:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 03:43:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 03:43:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:01:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:01:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:01:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:19:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:19:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:19:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:37:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:37:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:37:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:55:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:55:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 04:55:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 05:13:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 05:13:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 05:13:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 05:31:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 05:31:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 05:31:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 05:58:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 05:58:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 05:58:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 06:16:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 06:16:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 06:16:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 06:34:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 06:34:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 06:34:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 06:52:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 06:52:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 06:52:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 07:10:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 07:10:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 07:10:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 07:28:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 07:28:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 07:28:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 07:46:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 07:46:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 07:46:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:04:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:04:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:04:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:22:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:22:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:22:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:40:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:40:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:40:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:58:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:58:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 08:58:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 09:16:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 09:16:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 09:16:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 09:34:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 09:34:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 09:34:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 09:52:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 09:52:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 09:52:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 10:10:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 10:10:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 10:10:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 10:28:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 10:28:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 10:28:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 10:46:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 10:46:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 10:46:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 11:04:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 11:04:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 11:04:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 12:33:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 12:33:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 12:33:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 12:51:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 12:51:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 12:51:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 13:09:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 13:09:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 13:09:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 13:27:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 13:27:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 13:27:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 13:45:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 13:45:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 13:45:09
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:03:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:03:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:03:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:03:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:03:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:03:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:21:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:21:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:21:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:21:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:21:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:21:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:39:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:39:02
+  Time: 23-2月 -2016 14:39:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:39:03
+  Time: 23-2月 -2016 14:39:03
+  Tracing not turned on.
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+        TNS-12541: TNS: リスナーがありません。
+TNS-12541: TNS: リスナーがありません。
+    nt main err code: 511
+    ns secondary err code: 12560
+        nt main err code: 511
+TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+TNS-00511: リスナーがありません。
+    nt OS err code: 0
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:57:01
+  Tracing not turned on.
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+        TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:57:02
+  Time: 23-2月 -2016 14:57:02
+  Tracing not turned on.
+  Tracing not turned on.
+  Tns error struct:
+  Tns error struct:
+    ns main err code: 12541
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:57:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 14:57:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:15:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:15:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+?g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:15:02
+  Tracing not turned on.
+  Tracing not turned on.
+  Tns error struct:
+  Tns error struct:
+    ns main err code: 12541
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+TNS-12541: TNS: リスナーがありません。
+    nt main err code: 511
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+。
+    nt OS err code: 0
+de: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+?g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:15:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:33:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:33:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:33:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:33:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\work\???m???????\???V?X?e??_H27??????Ver0.0.9From0.0.8?N???????A?\???X???X?????????R?????g????\?????_???????\??\RSHINKAWA_201508072049.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:33:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.223)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oracle)(CID=(PROGRAM=C:\Program?Files\Microsoft?Visual?Studio\VB98\vb6.exe)(HOST=PC-KIBAN114)(USER=o-okada))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 23-2月 -2016 15:33:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: リスナーがありません。
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: リスナーがありません。
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:55:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:56:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:59:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:59:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:00:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:01:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:02:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:02:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:03:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:04:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:05:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:05:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:06:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:07:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:08:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:08:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:09:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:37:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:38:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:39:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:39:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:40:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:41:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:42:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:42:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:43:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:44:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:45:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:45:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:46:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:47:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:48:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:48:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:49:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:50:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:51:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:51:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:52:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:53:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:54:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:54:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:55:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:07:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:57:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:58:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:59:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:59:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:00:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:01:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:02:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:02:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:03:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:04:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:05:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:04:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:05:30
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:06:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:07:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:07:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:08:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:09:15
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:10:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:10:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:11:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:12:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:13:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:13:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:56:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:56:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:57:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:58:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:59:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 09-9月 -2015 23:59:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:00:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:01:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:02:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:02:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:03:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 10-9月 -2015 00:04:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作はタイム・アウトしました。
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作タイムアウトです。
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>

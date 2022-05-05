@@ -1,0 +1,1 @@
+start D:\SHINKAWA\ƒŒ[ƒ_[^…—\‘ª\RSHINKAWA.exe
