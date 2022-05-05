@@ -1,0 +1,37 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINNT\System32\stdole2.tlb#OLE Automation
+Reference=*\G{00000205-0000-0010-8000-00AA006D2EA4}#2.5#0#C:\Program Files\Common Files\System\ADO\msado25.tlb#Microsoft ActiveX Data Objects 2.5 Library
+Reference=*\G{F2D4ED20-FFD3-101A-ADF2-04021C007002}#2.3#0#..\..\..\orant\bin\oip23.tlb#Oracle InProc Server 2.3 Type Library
+Object={E18063E1-0C76-11D1-B3C1-00A024C0DCC6}#3.2#0; KnTilingButton.ocx
+Form=Control_Form.frm
+Module=Module1; vbt020.bas
+Startup="Control_Form"
+ExeName32="Control_Run.exe"
+Command32=""
+Name="Project1"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="ãeínè§âÔ"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1

@@ -1,0 +1,256 @@
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=D:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 06-MAY-02 11:18:02
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: プロトコル・アダプタ・エラーです。
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=D:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=FRONTIER菊地)(USER=kikuchi))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.4.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.4.0.0 - Production
+  Time: 17-MAY-02 19:21:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: プロトコル・アダプタ・エラーです。
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=D:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=FRONTIER菊地)(USER=kikuchi))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.4.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.4.0.0 - Production
+  Time: 17-MAY-02 19:22:07
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: プロトコル・アダプタ・エラーです。
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=D:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 28-MAY-02 13:07:01
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: プロトコル・アダプタ・エラーです。
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.112.4)(PORT=1521))(CONNECT_DATA=(SID=oracle)(CID=(PROGRAM=D:\SHINKAWA\レーダー洪水予測\Control\Control_Run.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 30-MAY-02 10:47:21
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NET80; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=D:\SHINKAWA\レーダー洪水予測\Control\Control_Run.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 30-MAY-02 10:47:21
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: プロトコル・アダプタ・エラーです。
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.112.4)(PORT=1521))(CONNECT_DATA=(SID=oracle)(CID=(PROGRAM=D:\SHINKAWA\レーダー洪水予測\Control\Control_Run.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 30-MAY-02 10:56:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NET80; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=D:\SHINKAWA\レーダー洪水予測\Control\Control_Run.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 30-MAY-02 10:56:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: プロトコル・アダプタ・エラーです。
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.112.4)(PORT=1521))(CONNECT_DATA=(SID=oracle)(CID=(PROGRAM=D:\SHINKAWA\レーダー洪水予測\Control\Control_Run.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 30-MAY-02 11:59:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NET80; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=D:\SHINKAWA\レーダー洪水予測\Control\Control_Run.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 30-MAY-02 11:59:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: プロトコル・アダプタ・エラーです。
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.228.1.4)(PORT=1521))(CONNECT_DATA=(SID=oracle)(CID=(PROGRAM=D:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 26-MAY-05 13:52:21
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NET80; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=D:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=DYNABOOK菊地)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.0.5.0.0 - Production
+  Time: 26-MAY-05 13:52:21
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS: 接続先に接続できません。
+    ns main err code: 12560
+    TNS-12560: TNS: プロトコル・アダプタ・エラーです。
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: プロトコル・アダプタ・エラーです。
+    nt secondary err code: 0
+    nt OS err code: 0
